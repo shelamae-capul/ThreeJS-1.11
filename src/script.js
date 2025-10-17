@@ -31,7 +31,7 @@ const parsedFont = fontLoader.parse(typefaceFont)
 
 // Create text geometry
 const textGeometry = new TextGeometry(
-    'Hello Three.js',
+    'Hello Im Shelamae',
     {
         font: parsedFont,
         size: 0.6,           
